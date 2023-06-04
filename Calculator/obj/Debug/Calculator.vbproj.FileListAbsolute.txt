@@ -1,0 +1,40 @@
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator 10042023\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator Backup\Calculator Backup 17-04-2023 3\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.CustomButton.resources
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.frm_calculator.resources
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Meet Nanda\.NET\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
